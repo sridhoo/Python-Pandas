@@ -1,5 +1,5 @@
 ## Project Title
-Introduction Python-Pandas
+Introduction to Python-Pandas
 ### Short description
 This README guides how to work with Pandas in Python for creating, manipulating, and managing data columns, concatenating and appending data frames, renaming columns, and reordering columns.
 
